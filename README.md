@@ -1,5 +1,5 @@
 # 👋 Hello, I'm botus99
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=botus99&show_icons=true&theme=dark)
 
 - 👀 I am interested in audio and video processing, media management and streaming technology
 - 🌱 I’m currently learning Linux, Docker, & Self-hosting/Homelab stuff

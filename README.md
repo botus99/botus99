@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @botus99
-- 👀 I am interested in processing/encoding audio and video, media management and streaming technology
+# 👋 Hello, I'm botus99
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
+- 👀 I am interested in audio and video processing, media management and streaming technology
 - 🌱 I’m currently learning Linux, Docker, & Self-hosting/Homelab stuff
 - 💞️ I’m looking to collaborate on anything that might be cool and where I can use my skills to help
 - 📫 How to reach me ...

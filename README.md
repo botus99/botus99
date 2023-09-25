@@ -15,7 +15,9 @@
 
 ### 🤝 Let's go places and do things!
 feel free to reach out if you want to collaborate on a project, chat about tech, or just say hi! 👯‍♂️
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=botus99&label=profile%20views&color=800000&style=flat" alt="botus99" /> </p>
+
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+![Profile views](https://komarev.com/ghpvc/?username=botus99&label=profile%20views&color=800000&style=flat)
 <!---
 botus99/botus99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

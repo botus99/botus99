@@ -18,7 +18,7 @@
 
 feel free to reach out if you want to collaborate on a project, chat about tech, or just say hi! 👯‍♂️
 
-### What I've been listening to:
+### 🎶 What I'm currently listening to:
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=botus99)
 
 <!---  [![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)  --->
